@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+logs/*.jsonl
+chatgpt_profile.*
+chatgpt_host.json
+.env
